@@ -1,5 +1,5 @@
 <?php
 
 $name = 'Hare Rama Hare Rama';
-$place = 'Heaven'
-$country = 'India'
+$place = 'Heaven';
+$country = 'India;'
